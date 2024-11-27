@@ -1,0 +1,10 @@
+../Application/User/Core/md_slave.c:78:10:crc16	24	static
+../Application/User/Core/md_slave.c:95:6:read_coils	72	static
+../Application/User/Core/md_slave.c:177:6:read_descrete_data	72	static
+../Application/User/Core/md_slave.c:255:6:read_holding_registers	40	static
+../Application/User/Core/md_slave.c:297:6:read_input_registers	40	static
+../Application/User/Core/md_slave.c:339:6:write_single_coil	32	static
+../Application/User/Core/md_slave.c:384:6:write_single_register	32	static
+../Application/User/Core/md_slave.c:421:6:read_exception_status	32	static
+../Application/User/Core/md_slave.c:435:6:write_multiple_coils	72	static
+../Application/User/Core/md_slave.c:1108:6:write_multiple_registers	32	static
